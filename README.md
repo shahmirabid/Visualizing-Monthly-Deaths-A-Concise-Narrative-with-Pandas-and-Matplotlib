@@ -1,1 +1,1 @@
-# Visualizing-Monthly-Deaths-A-Concise-Narrative-with-Pandas-and-Matplotlib
+In this project, I conducted data cleaning on the USA COVID-19 dataset, followed by the implementation of a data incrementation method using Python. The results are visually presented through subplots in graphical form.
